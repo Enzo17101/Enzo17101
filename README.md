@@ -68,7 +68,7 @@ Instead of following tutorials, I like to spend my free time building things tha
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo17101&layout=compact&hide=jupyter%20notebook)
+![Top Langs](https://raw.githubusercontent.com/Enzo17101/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![Overwiew](https://raw.githubusercontent.com/Enzo17101/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ---
