@@ -67,6 +67,9 @@ Instead of following tutorials, I like to spend my free time building things tha
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo17101&layout=compact&hide=jupyter%20notebook)
+
 ---
 
 ### 🎹 Beyond the screen
