@@ -78,7 +78,7 @@ Instead of following tutorials, I like to spend my free time building things tha
 
 ### 🎹 Beyond the screen
 
-When my IDE is closed and my code is finally formatted (thanks Biome), you can usually find me:
+When my IDE is closed, you can usually find me:
 - 🛠️ **Tinkering with hardware:** I'm a bit of a hardware nerd—whether it's optimizing AMD builds, chasing the best OLED displays, or troubleshooting PC components.
 - 🎵 **At the piano:** Exploring modern pieces, sometimes straight out of movie soundtracks.
 - 🌌 **Gaming & Culture:** Digging into Japanese culture, grinding on *Honkai: Star Rail*, building on *Minecraft*, or suffering on *Hollow-Knight : Silksong*.
