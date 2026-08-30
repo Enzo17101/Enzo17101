@@ -7,7 +7,7 @@
 
 ### 👨‍💻 A bit about me
 
-I'm an engineer with a dual background from Polytech Tours and the University of Sherbrooke. I love bridging the gap between traditional software engineering and the emerging world of artificial intelligence. I don't just plug into APIs; I enjoy running models locally, understanding the hardware acceleration behind them, and building the architectures that support them. 
+I'm an engineer with a dual background from Polytech Tours and the University of Sherbrooke. I love bridging the gap between traditional software engineering and the emerging world of artificial intelligence. I don't just plug into APIs; I enjoy running models locally, understanding all the maths behind them, and building the architectures that support them. 
 
 - 🌍 Currently exploring full-time opportunities in the **Grand Ouest** region of France.
 - 🗣️ English (fluent/C1) & Native French.
@@ -18,6 +18,7 @@ I'm an engineer with a dual background from Polytech Tours and the University of
 
 Instead of following tutorials, I like to spend my free time building things that solve problems or push boundaries:
 
+- ⚙️ **Freelance:** I work on independent projects, building custom Java features for my customers, often with AI integration.
 - 🧠 **TechWatch AI:** I'm developing a microservices-based application designed for tech news aggregation and deep analysis.
 - 🎮 **Smart Game NPCs:** I'm working on integrating local LLMs directly into video games via a custom API to create truly intelligent, reactive non-playable characters.
 - ⛏️ **Triggers Studio:** I previously led the Scenario & Gameplay Integration division for an ambitious Minecraft project.
@@ -81,7 +82,7 @@ Instead of following tutorials, I like to spend my free time building things tha
 When my IDE is closed, you can usually find me:
 - 🛠️ **Tinkering with hardware:** I'm a bit of a hardware nerd—whether it's optimizing AMD builds, chasing the best OLED displays, or troubleshooting PC components.
 - 🎵 **At the piano:** Exploring modern pieces, sometimes straight out of movie soundtracks.
-- 🌌 **Gaming & Culture:** Digging into Japanese culture, grinding on *Honkai: Star Rail*, building on *Minecraft*, or suffering on *Hollow-Knight : Silksong*.
+- 🌌 **Gaming & Culture:** Digging into Japanese culture, grinding on *Honkai: Star Rail*, building on *Minecraft*, or grinding speedruns on *Hollow-Knight : Silksong* and *Ori and the Will of the Wisps*.
 
 <br/>
 
